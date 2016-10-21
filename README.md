@@ -5,12 +5,13 @@ Introduction
 
 数据示例
 ============
-ID		Name	ParentID	Deep	ShortName	MergeName		AreaCode	ZipCode		Pinyin		Initials
-110000	北京市	100000		1		北京		北京市									Beijing		bj
-110101	东城区	110100		2		东城		北京市,东城区	010			100010		Dongcheng	dc
-110102	西城区	110100		2		西城		北京市,西城区	010			100032		Xicheng		xc
-110105	朝阳区	110100		2		朝阳		北京市,朝阳区	010			100020		Chaoyang	cy
-110106	丰台区	110100		2		丰台		北京市,丰台区	010			100071		Fengtai		ft
+ID		| Name	| ParentID	| Deep	| ShortName	| MergeName		| AreaCode |	ZipCode	|	Pinyin	|	Initials |
+------|-------|-----------|-------|-----------|-------------|----------|----------|---------|----------|
+110000 |	北京市 |	100000	|	1	|	北京	|	北京市	|  |  | Beijing	|	bj |
+110101 |	东城区 |	110100	|	2	|	东城	|	北京市,东城区 |	010		|	100010	|	Dongcheng |	dc |
+110102 |	西城区 |	110100	|	2	|	西城	|	北京市,西城区 |	010		|	100032	|	Xicheng	|	xc |
+110105 |	朝阳区 |	110100	|	2	|	朝阳	|	北京市,朝阳区 |	010		|	100020	|	Chaoyang |	cy |
+110106 |	丰台区 |	110100	|	2	|	丰台	|	北京市,丰台区 |	010		|	100071	|	Fengtai	|	ft |
 
 数据来源
 ============
