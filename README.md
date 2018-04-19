@@ -15,7 +15,7 @@ ID		| Name	| ParentID	| Deep	| ShortName	| MergeName		| AreaCode |	ZipCode	|	Pin
 
 数据来源
 ============
-* 中华人民共和国民政部《2016年8月中华人民共和国县以上行政区划代码》（http://www.mca.gov.cn/article/sj/tjbz/a/2016/20161013/201610131137.html）
+* 中华人民共和国民政部《2016年8月中华人民共和国县以上行政区划代码》（http://www.mca.gov.cn/article/sj/tjbz/a/2016/20161013/201610131137.html ）
 * 维基百科（ http://zh.wikipedia.org ）
 * 百度百科（ http://baike.baidu.com ）
 
